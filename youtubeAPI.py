@@ -5,7 +5,7 @@ import webbrowser
 import requests
 from PIL import Image, ImageTk
 
-api_key = 'AIzaSyAut614qjnGR33kMLJ5Cmty9JD_O8SpQV4'
+api_key = ''
 
 root = Tk()
 root.geometry("600x600+410+50")
