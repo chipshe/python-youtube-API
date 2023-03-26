@@ -5,6 +5,7 @@ import webbrowser
 import requests
 from PIL import Image, ImageTk
 
+#API Key'inizi girin..
 api_key = ''
 
 root = Tk()
